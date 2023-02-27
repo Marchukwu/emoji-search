@@ -26,6 +26,7 @@ h2{
  text-align: center;
  margin-top: 25px;
  margin-bottom: 30px;
+ border-radius: 2px solid black;
 }
 input {
   width: 400px;
